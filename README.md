@@ -21,7 +21,7 @@
 Hi,I'm Tekin🙌, a AWS Cloud engineer and AWS/DevOps Mentor and Cloud Enthusiast. Apart from that, I love creating solutions and writing.❤✌
 
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/race-kickstart-etas-1y0zSu5hYE1pJSdqmI" />
+<img align="right" alt="GIF" src="https://giphy.com/stickers/MicrosoftCloud-microsoft-cloud-ms-nsheGfYEopO6FI7efF" />
 
 
 **Talking about Personal Stuffs:**
