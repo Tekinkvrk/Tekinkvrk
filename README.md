@@ -20,8 +20,8 @@
 
 Hi,I'm Tekin🙌, a AWS Cloud engineer and AWS/DevOps Mentor and Cloud Enthusiast. Apart from that, I love creating solutions and writing.❤✌
 
-<iframe src="https://giphy.com/embed/LqmVGgvWmGWvG4Rv0t" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Veeam-cloud-software-veeam-LqmVGgvWmGWvG4Rv0t">via GIPHY</a></p>
 
+<img align="right" alt="GIF" src="https://giphy.com/embed/LqmVGgvWmGWvG4Rv0t" />
 
 **Talking about Personal Stuffs:**
 
