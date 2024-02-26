@@ -18,16 +18,16 @@
 
 <br />
 
-Hi,I'm Tekin🙌, a AWS Cloud engineer and AWS/DevOps Mentor and Cloud Enthusiast. Apart from that, I love creating solutions and writing.❤✌
+Hi,I'm Tekin🙌, an AWS Cloud engineer and AWS/DevOps Mentor and Cloud Enthusiast. Apart from that, I love creating solutions and writing.❤✌
 
 
 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working at Clarusway as a AWS/DevOps mentor.
+- 🔭 I’m currently working at Clarusway as an AWS/DevOps mentor.
 - 🌱 I’m currently learning Deep Terraform.
-- 👯 Part of ICTer.nl Developer Comunity and admin of DevOps Cloud Group.
+- 👯 Part of ICTer.nl Developer Community and admin of DevOps Cloud Group.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](https://medium.com/@TekinKivrak)
