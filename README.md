@@ -18,15 +18,15 @@
 
 <br />
 
-Hi,I'm Tekin🙌, an AWS-AZURE Cloud engineer and AWS/DevOps Mentor and Cloud Enthusiast. Apart from that, I love creating solutions and writing.❤✌
+Hi,I'm Tekin🙌, an AWS Cloud engineer and AWS/DevOps Mentor and Cloud Enthusiast. Apart from that, I love creating solutions and writing.❤✌
 
 
 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working at ABN AMRO as a Cloud Engineer.
-- 🌱 I’m currently learning Deep AZURE.
+- 🔭 I’m currently working at ABN AMRO as an IT Engineer.
+- 🌱 I’m currently learning Java and AZURE.
 - 👯 Part of ICTer.nl Developer Community and admin of DevOps Cloud Group.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
